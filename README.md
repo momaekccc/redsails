@@ -36,9 +36,7 @@ Built for Windows operating systems newer than Vista and Windows 2008 (including
   Then you can create the exe:
   #### `pyinstaller-script.py -F --clean redSails.spec`
   
-## License
-
-用法:
+## 用法
 ```
 在目标主机上执行:
 redsails.exe -a <IP Address> -p <password> -o <port>
